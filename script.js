@@ -1,0 +1,1 @@
+alert("Bravo! Vous avez réussi tous les exercices!");
